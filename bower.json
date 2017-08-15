@@ -1,0 +1,22 @@
+{
+  "name": "Sassy",
+  "description": "Starting on my way to success",
+  "main": "index.html",
+  "authors": [
+    "Aakash Thakur"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "^4.3.4",
+    "susy": "^2.2.12",
+    "normalize-css": "^7.0.0"
+  }
+}

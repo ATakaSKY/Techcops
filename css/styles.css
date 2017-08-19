@@ -471,6 +471,10 @@ nav a {
 
 .site-branding .site-title {
   color: #fff; }
+  @media (min-width: 480px) and (max-width: 879px) {
+    .site-branding .site-title {
+      margin: 0px !important;
+      padding: 10px; } }
 
 .wrap {
   max-width: 70%;
@@ -486,20 +490,20 @@ nav a {
   content: "";
   display: table; }
 
-@media (min-width: 760px) {
+@media (min-width: 880px) {
   .site-branding {
     width: 24.0963855422%;
     float: left;
     margin-right: 1.2048192771%; } }
 
-@media (min-width: 760px) {
+@media (min-width: 880px) {
   .header-nav {
     width: 74.6987951807%;
     float: right;
     margin-right: 0;
     padding-top: 40px; } }
 
-@media (min-width: 760px) and (max-width: 959px) {
+@media (min-width: 880px) and (max-width: 959px) {
   .features .feature {
     width: 49.3975903614%;
     float: left;

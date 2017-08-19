@@ -19,7 +19,7 @@
 	color:#fff;
 	
 
-	@include susy-breakpoint($small $medium - 1){
+	@include susy-breakpoint($extrasmall $medium - 1){
 		margin:0px!important;
 		padding:10px
 	}

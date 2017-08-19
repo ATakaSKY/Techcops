@@ -471,7 +471,7 @@ nav a {
 
 .site-branding .site-title {
   color: #fff; }
-  @media (min-width: 480px) and (max-width: 879px) {
+  @media (min-width: 100px) and (max-width: 879px) {
     .site-branding .site-title {
       margin: 0px !important;
       padding: 10px; } }
